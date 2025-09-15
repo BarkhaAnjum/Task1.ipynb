@@ -1,0 +1,6 @@
+- Stores conversation history.
+- Supports truncation by:
+  - Last N turns
+  - Character limit
+  - Word limit
+- Simple summarizer works.
